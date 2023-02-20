@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.demultiplexer.service.DemultiplexerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-20T08:50:24" hostname="MKOVACS1ML" time="0.006">
+  <properties/>
+  <testcase name="testWildcardBestAlignment()" classname="org.demultiplexer.service.DemultiplexerTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
